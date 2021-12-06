@@ -8,7 +8,7 @@
 <body>
   <table cellspacing="20">
     <tr>
-      <td><img src="PicSiteTest/PIC Fleur orange fond blanc sans nom.png" alt="Photo Nelly" width="130"></td>
+      <td><img src="HTML-Personnal site/PicSiteTest/PIC Fleur orange fond blanc sans nom.png" alt="Photo Nelly" width="130"></td>
       <td>
         <h1>Nelly Canetti</h1>
         <h3>The <em><strong>
