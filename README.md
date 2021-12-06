@@ -50,13 +50,13 @@
     <li>Chanter</li>
     <li>Lire</li>
     <li>Apprendre</li>
-    <li><a href="HTML-Personnal file/L'auberge.html">L'auberge</a></li>
+    <li><a href="HTML-Personnal site/L'auberge.html">L'auberge</a></li>
   </ol>
   <hr>
   <h3><a href="https://www.shushaneandco.com/">My Webiste</a></h3>
   <img src="PicSiteTest/logo JPG.jpg" alt="Logo Shushane" width="80">
   <hr>
-  <h3><a href="HTML-Personnal file/Contact.html">Contact details</a></h3>
+  <h3><a href="HTML-Personnal site/Contact.html">Contact details</a></h3>
 </body>
 
 </html>
