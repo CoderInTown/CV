@@ -54,7 +54,7 @@
   </ol>
   <hr>
   <h3><a href="https://www.shushaneandco.com/">My Webiste</a></h3>
-  <img src="HTML-Personnal site/PicSiteTest/logo JPG.jpg" alt="Logo Shushane" width="80">
+  <img src="HTML-Personnal site/PicSiteTest/Logo JPG.jpg" alt="Logo Shushane" width="80">
   <hr>
   <h3><a href="HTML-Personnal site/Contact.html">Contact details</a></h3>
 </body>
